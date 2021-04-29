@@ -110,7 +110,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
+		/*border-bottom: dotted 1px;*/
 		color: #49bf9d;
 		text-decoration: none;
 	}
@@ -1806,6 +1806,31 @@ input, select, textarea {
 		font-size: 0.9em;
 		font-weight: 400;
 		margin: 0 0 1em 0;
+	}
+
+	label2 {
+		color: #787878;
+		font-size: 1em;
+		font-weight: 560;
+		margin: 0 0 1em 0;
+	}
+
+	.big-icon {
+		font-size: 1.69rem;
+		margin-top: 1rem;
+		margin-right: -0.25rem;
+	}
+	
+	.ai {
+		font-family: 'Academicons';
+		font-weight: 400;
+		-moz-osx-font-smoothing: grayscale;
+		-webkit-font-smoothing: antialiased;
+		display: inline-block;
+		font-style: normal;
+		font-variant: normal;
+		text-rendering: auto;
+		line-height: 1;
 	}
 
 	input[type="text"],
