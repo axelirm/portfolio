@@ -1781,6 +1781,15 @@ input, select, textarea {
 		margin-top: -0.8em;
 		line-height: 1.5em;
 	}
+/* 
+	header ul {
+		margin-top: -0.13em;
+	}
+
+	header ul, li {
+		font-size: .8em;
+		line-height: 1.44em;
+	} */
 
 	header h4 + p,
 	header h5 + p,
